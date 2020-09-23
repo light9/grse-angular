@@ -5,7 +5,7 @@ import { Http } from '@angular/http';
   selector: 'home',
   template: `
     <div>
-      <h1>Home</h1>
+      <h1>Grse Home</h1>
       <h3>Total users: # {{users?.length}}</h3>
     </div>
   `,
